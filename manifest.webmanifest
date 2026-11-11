@@ -1,0 +1,8 @@
+{
+  "name": "Gyakoroljunk Misával! – teszt",
+  "short_name": "Misa",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#65c4ee",
+  "theme_color": "#62c6ff"
+}
